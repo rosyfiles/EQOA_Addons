@@ -1,11 +1,3 @@
-**Batch Files**
-
-StartFrontiersForgeMultiple.bat goes into .\FrontiersForge-master. This allows you to choose an instance of pcsx2-qt.exe if the Window Titles are unique (in PCSX2, right click the iso on the main screen, go to properties, and rename it).
-
-<img width="485" height="220" alt="image" src="https://github.com/user-attachments/assets/7034702d-3384-4d8c-9382-c29264a8679f" />
-<img width="845" height="209" alt="image" src="https://github.com/user-attachments/assets/2be812a6-a4b1-46af-9050-c36c63a8f988" />
-
-
 **Scripts** - put into "Scripts" folder. Screenshots of addons follow.
 
 1. **CharStatsResistXP.lua**
@@ -21,6 +13,5 @@ StartFrontiersForgeMultiple.bat goes into .\FrontiersForge-master. This allows y
 <img width="339" height="143" alt="image" src="https://github.com/user-attachments/assets/03cff685-506b-455e-acf1-f90bb021caaa" />
 
 5. **InventoryManager.lua**
-<img width="899" height="789" alt="image" src="https://github.com/user-attachments/assets/b32e53e7-b2d6-4783-ba9c-9cab02951eeb" />
-
-
+<img width="1198" height="837" alt="image" src="https://github.com/user-attachments/assets/e7ab5312-904f-409c-95d5-3ddf1919791e" />
+Supporting file "GearLog.txt" should be placed in folder ..\FrontiersForge-master-0.06\FrontiersForge-master. The script will pull item info from this file. The file has been preloaded with Prima data.
